@@ -1,0 +1,10 @@
+var x = 5;
+var username = 'ntdvl';
+var tools = true;
+var y;
+var z = null;
+console.log(typeof(x));
+console.log(typeof(username));
+console.log(typeof(tools));
+console.log(typeof(y));
+console.log(typeof(z));

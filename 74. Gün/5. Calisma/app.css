@@ -1,0 +1,17 @@
+body {
+	
+	margin: 0;
+
+}
+
+.parent {
+	height: 100vh;
+	background: purple;
+	position: relative;
+}
+
+.child {
+	
+	background: red;
+
+}

@@ -1,0 +1,5 @@
+function make() {
+
+	window.print();
+
+}

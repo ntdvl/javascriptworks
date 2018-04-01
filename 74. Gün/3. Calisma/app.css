@@ -1,0 +1,15 @@
+body {
+	margin: 0;
+}
+
+.deneme {
+	
+	box-sizing: border-box;
+	width: 600px;
+	height: 600px;
+	background: purple;
+	border: 3px solid blue;
+	padding: 10px;
+
+
+}

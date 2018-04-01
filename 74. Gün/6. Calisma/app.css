@@ -1,0 +1,15 @@
+body {
+	
+	margin: 0;
+
+}
+
+.wrapper {
+	
+	margin-left: 50px;
+	margin-top: 120px;
+	background: red;
+	width: 600px;
+	height: 300px;
+
+}

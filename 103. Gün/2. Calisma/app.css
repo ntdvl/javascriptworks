@@ -1,0 +1,13 @@
+#backup {
+	
+	border: 1px solid red;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	color: white;
+	background: black;
+
+}
+
+#backup .header {}
+#backup .header a {text-decoration: none;}

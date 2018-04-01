@@ -1,0 +1,9 @@
+body {
+	
+	height: 100%;
+	display: flex;
+	justify-content: center;
+
+}
+
+.wrapper .input-group {margin: 0 0 10px 0;}

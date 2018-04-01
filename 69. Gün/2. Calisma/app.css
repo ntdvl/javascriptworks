@@ -1,0 +1,11 @@
+ul {
+	list-style-type: square;
+}
+
+li {}
+li.very-important {color: #ff0000;}
+li.important {color: #ff4c4c;}
+li.middle {color: #fbb034;}
+li.unimportant {color: #ffdd00;}
+li.low-priority {color: #c1d82f;}
+li.low-priority {color: #6a737b;}

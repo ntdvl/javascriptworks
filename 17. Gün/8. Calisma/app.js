@@ -1,0 +1,1 @@
+document.getElementsByClassName('test')[0].innerHTML = 'Buraya yazdığım şeyler JavaScript sayesinde oldu';

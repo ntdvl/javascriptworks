@@ -1,0 +1,16 @@
+.wrapper {
+	display: grid;
+	grid-gap: 20px;
+}
+
+.item {
+	
+	width: 50%;
+	height: 30px;
+	padding: 3px;
+	border-width: 9px 6px 3px 11px;
+	border-color: blue;
+	border-style: solid;
+	background: red;
+
+}

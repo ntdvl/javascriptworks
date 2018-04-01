@@ -1,0 +1,1 @@
+console.log(parseInt('-F', 16)); // -15

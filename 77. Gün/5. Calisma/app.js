@@ -1,0 +1,1 @@
+var x = document.querySelector('#test').removeAttribute('style');
